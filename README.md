@@ -4,7 +4,7 @@
 ## Description
 Software for Industry , where they can track the attendence of their employee with the help of face recognition using OpenCV library.
 
-This is an open-source project clone intended for contributions, aligning with our project plan objectives. We're dedicated to fostering collaborative development in line with our goals.
+*This is an open-source project dedicated to fostering collaborative development in line with our project plan objectives.*
 
 
 ## Table of Contents
